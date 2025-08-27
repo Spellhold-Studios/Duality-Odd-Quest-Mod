@@ -39,6 +39,13 @@ THEN
 END
 
 IF
+	Global("duStartCreation","LOCALS",0)
+THEN
+	RESPONSE #100
+		SetGlobal("duStartCreation","LOCALS",1)
+END
+
+IF
 	HaveSpell(WIZARD_GLOBE_OF_INVULNERABILITY)
 	RandomNum(2,1)
 	GlobalTimerExpired("duCastingTimer","LOCALS")
