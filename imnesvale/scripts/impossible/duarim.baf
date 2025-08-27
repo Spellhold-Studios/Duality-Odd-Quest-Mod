@@ -107,11 +107,11 @@ END
 
 IF
 	HaveSpell(WIZARD_STONE_SKIN)
-	GlobalTimerExpired("fighterCast","LOCALS")
+	GlobalTimerExpired("duCastingTimer","LOCALS")
 	CheckStatLT(Myself,2,STONESKINS)
 THEN
 	RESPONSE #100
-		SetGlobalTimer("fighterCast","LOCALS",6)
+		SetGlobalTimer("duCastingTimer","LOCALS",6)
 		Spell(Myself,WIZARD_STONE_SKIN)
 		AttackOneRound(NearestEnemyOf(Myself))
 		Continue()
@@ -119,32 +119,32 @@ END
 
 IF
 	HaveSpell(WIZARD_MIRROR_IMAGE)
-	GlobalTimerExpired("fighterCast","LOCALS")
+	GlobalTimerExpired("duCastingTimer","LOCALS")
 	!StateCheck(Myself,STATE_MIRRORIMAGE)
 THEN
 	RESPONSE #100
-		SetGlobalTimer("fighterCast","LOCALS",6)
+		SetGlobalTimer("duCastingTimer","LOCALS",6)
 		Spell(Myself,WIZARD_MIRROR_IMAGE)
 		AttackOneRound(NearestEnemyOf(Myself))
 		Continue()
 END
 
 IF
-	GlobalTimerExpired("fighterCast","LOCALS")
+	GlobalTimerExpired("duCastingTimer","LOCALS")
 	HaveSpell(WIZARD_SPELL_IMMUNITY)
 THEN
 	RESPONSE #100
-		SetGlobalTimer("fighterCast","LOCALS",6)
+		SetGlobalTimer("duCastingTimer","LOCALS",6)
 		Spell(Myself,WIZARD_SPELL_IMMUNITY_INVOCATION)
 		Continue()
 END
 
 IF
-	GlobalTimerExpired("fighterCast","LOCALS")
+	GlobalTimerExpired("duCastingTimer","LOCALS")
 	HaveSpell(WIZARD_TENSERS_TRANSFORMATION)
 THEN
 	RESPONSE #100
-		SetGlobalTimer("fighterCast","LOCALS",6)
+		SetGlobalTimer("duCastingTimer","LOCALS",6)
 		Spell(Myself,WIZARD_TENSERS_TRANSFORMATION)
 		AttackOneRound(NearestEnemyOf(Myself))
 		Continue()
