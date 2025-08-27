@@ -197,9 +197,9 @@ THEN
 		DisplayStringHead(Myself,@65)
 		UseItem("POTN55",Myself)
 		AttackOneRound(NearestEnemyOf(Myself))
-		Continue()
 		ReallyForceSpell(Myself,WIZARD_STONE_SKIN)
 		ReallyForceSpell(Myself,WIZARD_MIRROR_IMAGE)
+		Continue()
 END
 
 // Being a fighter/mage, Arimayus will only attack and apply spell buffs.
