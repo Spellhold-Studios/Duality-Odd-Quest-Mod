@@ -3,7 +3,7 @@ IF
 THEN
 	RESPONSE #100
 		SetGlobal("casterStart","LOCALS",1)
-		SetGlobal("allCastersTimer","LOCALS",6)
+		SetGlobal("duCastingTimer","LOCALS",6)
 		SetGlobal("untriggered","LOCALS",0)
 		SetGlobal("almostDead","LOCALS",0)		
 		SetGlobal("duSpellTrigger","LOCALS",0)
