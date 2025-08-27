@@ -171,7 +171,7 @@ IF
 	!StateCheck(SecondNearestEnemyOfType([0.0.0.MAGE_ALL]),STATE_INVISIBLE)
 THEN
 	RESPONSE #100
-		Attack(SecondNearestEnemyOf(Myself))
+		Attack(SecondNearestEnemyOfType([0.0.0.MAGE_ALL]))
 		Continue()
 END	
 
@@ -180,7 +180,7 @@ IF
 	!StateCheck(NearestEnemyOfType([0.0.0.MAGE_ALL]),STATE_INVISIBLE)
 THEN
 	RESPONSE #100
-		Attack(NearestEnemyOf(Myself))
+		Attack(NearestEnemyOfType([0.0.0.MAGE_ALL]))
 		Continue()
 END
 
