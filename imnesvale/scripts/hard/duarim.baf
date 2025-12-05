@@ -3,14 +3,13 @@ IF
 THEN
 	RESPONSE #100
 		SetGlobal("casterStart","LOCALS",1)
-		SetGlobal("allCastersTimer","LOCALS",6)
+		SetGlobal("duCastingTimer","LOCALS",6)
 		SetGlobal("untriggered","LOCALS",0)
 		SetGlobal("almostDead","LOCALS",0)		
 		SetGlobal("duSpellTrigger","LOCALS",0)
 		ReallyForceSpell(Myself,WIZARD_STONE_SKIN)
 		ReallyForceSpell(Myself,WIZARD_MIRROR_IMAGE)
 		ReallyForceSpell(Myself,WIZARD_BLUR)
-		ReallyForceSpell(Myself,CLERIC_RESIST_COLD)
 		ReallyForceSpell(Myself,CLERIC_RESIST_FIRE)
 		ReallyForceSpell(Myself,CLERIC_CHAOTIC_COMMANDS)
 		ReallyForceSpell(Myself,WIZARD_PROTECTION_FROM_ENERGY)
@@ -46,7 +45,6 @@ THEN
 		ReallyForceSpell(Myself,WIZARD_STONE_SKIN)
 		ReallyForceSpell(Myself,WIZARD_MIRROR_IMAGE)
 		ReallyForceSpell(Myself,WIZARD_BLUR)
-		ReallyForceSpell(Myself,CLERIC_RESIST_COLD)
 		ReallyForceSpell(Myself,CLERIC_RESIST_FIRE)
 		ReallyForceSpell(Myself,CLERIC_CHAOTIC_COMMANDS)
 		ReallyForceSpell(Myself,WIZARD_PROTECTION_FROM_ENERGY)
@@ -86,14 +84,13 @@ IF
 	StateCheck(Myself,STATE_HELPLESS)
 THEN
 	RESPONSE #100
-		ReallyForceSpell(Myself,WIZARD_DISPEL_MAGIC)
-		ReallyForceSpell(Myself,WIZARD_DISPEL_MAGIC)
-		ReallyForceSpell(Myself,WIZARD_DISPEL_MAGIC)
-		ReallyForceSpell(Myself,WIZARD_DISPEL_MAGIC)
+		ReallyForceSpell(Myself,INQUIS_DISPEL_MAGIC)
+		ReallyForceSpell(Myself,INQUIS_DISPEL_MAGIC)
+		ReallyForceSpell(Myself,INQUIS_DISPEL_MAGIC)
+		ReallyForceSpell(Myself,INQUIS_DISPEL_MAGIC)
 		ReallyForceSpell(Myself,WIZARD_STONE_SKIN)
 		ReallyForceSpell(Myself,WIZARD_MIRROR_IMAGE)
 		ReallyForceSpell(Myself,WIZARD_BLUR)
-		ReallyForceSpell(Myself,CLERIC_RESIST_COLD)
 		ReallyForceSpell(Myself,CLERIC_RESIST_FIRE)
 		ReallyForceSpell(Myself,CLERIC_CHAOTIC_COMMANDS)
 		ReallyForceSpell(Myself,WIZARD_PROTECTION_FROM_ENERGY)
@@ -107,11 +104,11 @@ END
 
 IF
 	HaveSpell(WIZARD_STONE_SKIN)
-	GlobalTimerExpired("fighterCast","LOCALS")
+	GlobalTimerExpired("duCastingTimer","LOCALS")
 	CheckStatLT(Myself,2,STONESKINS)
 THEN
 	RESPONSE #100
-		SetGlobalTimer("fighterCast","LOCALS",6)
+		SetGlobalTimer("duCastingTimer","LOCALS",6)
 		Spell(Myself,WIZARD_STONE_SKIN)
 		AttackOneRound(NearestEnemyOf(Myself))
 		Continue()
@@ -119,32 +116,32 @@ END
 
 IF
 	HaveSpell(WIZARD_MIRROR_IMAGE)
-	GlobalTimerExpired("fighterCast","LOCALS")
+	GlobalTimerExpired("duCastingTimer","LOCALS")
 	!StateCheck(Myself,STATE_MIRRORIMAGE)
 THEN
 	RESPONSE #100
-		SetGlobalTimer("fighterCast","LOCALS",6)
+		SetGlobalTimer("duCastingTimer","LOCALS",6)
 		Spell(Myself,WIZARD_MIRROR_IMAGE)
 		AttackOneRound(NearestEnemyOf(Myself))
 		Continue()
 END
 
 IF
-	GlobalTimerExpired("fighterCast","LOCALS")
+	GlobalTimerExpired("duCastingTimer","LOCALS")
 	HaveSpell(WIZARD_SPELL_IMMUNITY)
 THEN
 	RESPONSE #100
-		SetGlobalTimer("fighterCast","LOCALS",6)
+		SetGlobalTimer("duCastingTimer","LOCALS",6)
 		Spell(Myself,WIZARD_SPELL_IMMUNITY_INVOCATION)
 		Continue()
 END
 
 IF
-	GlobalTimerExpired("fighterCast","LOCALS")
+	GlobalTimerExpired("duCastingTimer","LOCALS")
 	HaveSpell(WIZARD_TENSERS_TRANSFORMATION)
 THEN
 	RESPONSE #100
-		SetGlobalTimer("fighterCast","LOCALS",6)
+		SetGlobalTimer("duCastingTimer","LOCALS",6)
 		Spell(Myself,WIZARD_TENSERS_TRANSFORMATION)
 		AttackOneRound(NearestEnemyOf(Myself))
 		Continue()
@@ -177,9 +174,9 @@ THEN
 		DisplayStringHead(Myself,@65)
 		UseItem("POTN55",Myself)
 		AttackOneRound(NearestEnemyOf(Myself))
-		Continue()
 		ReallyForceSpell(Myself,WIZARD_STONE_SKIN)
 		ReallyForceSpell(Myself,WIZARD_MIRROR_IMAGE)
+		Continue()
 END
 
 IF	
@@ -187,7 +184,7 @@ IF
 	!StateCheck(SecondNearestEnemyOfType([0.0.0.MAGE_ALL]),STATE_INVISIBLE)
 THEN
 	RESPONSE #100
-		Attack(SecondNearestEnemyOf(Myself))
+		Attack(SecondNearestEnemyOfType([0.0.0.MAGE_ALL]))
 		Continue()
 END	
 
@@ -196,7 +193,7 @@ IF
 	!StateCheck(NearestEnemyOfType([0.0.0.MAGE_ALL]),STATE_INVISIBLE)
 THEN
 	RESPONSE #100
-		Attack(NearestEnemyOf(Myself))
+		Attack(NearestEnemyOfType([0.0.0.MAGE_ALL]))
 		Continue()
 END
 
