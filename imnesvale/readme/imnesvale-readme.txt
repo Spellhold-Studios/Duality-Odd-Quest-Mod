@@ -95,6 +95,16 @@ END SPOILERS
 VERSION HISTORY
 ===============
 
+Version 2.2.2
+- Fixed Hard difficulty install error.
+- Inversion: now the guy has less chance to dispel when held in easy difficulty, and better chances on harder difficulty.
+
+Version 2.2.1
+- Various fixes (by Rivvers)
+
+Version 2.2
+- Added French translation (by Deratiseur)
+
 Version 2.1 (August 30, 2020)
 - Added Italian translation (by ilot).
 
