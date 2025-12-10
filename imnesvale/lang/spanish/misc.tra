@@ -1,0 +1,174 @@
+
+/* ----------- *
+ *  Creatures  *
+ * ----------- */
+@101 = ~Guerrero~
+@102 = ~Mago~
+@103 = ~Clerigo~
+@104 = ~Arquero~
+@105 = ~Guerrero/Ladron~
+@106 = ~Barbaro~
+@107 = ~Druida~
+@108 = ~Guerrero/Mago~
+@109 = ~Rakshasa~
+@110 = ~Demonio~
+@111 = ~Demonio del Foso~
+@112 = ~Arimayus~
+@113 = ~Maia~
+@114 = ~Jugend~
+@115 = ~Ayrus~
+@116 = ~Espiritu del bosque~
+@117 = ~Madulf~
+@118 = ~Ministro Lloyd~
+@119 = ~Ogro~
+@120 = ~Minotauro~
+@121 = ~Gnoll~
+@122 = ~Orco~
+@123 = ~Señora Eina~
+@124 = ~Protector del bosque~
+@125 = ~Engendro1~
+@126 = ~Engendro2~
+
+/* ------- *
+ *  Items  *
+ * ------- */
+@201 = ~Anillo~
+@202 = ~Anillo de Anfetaminas~
+@203 = ~Es un anillo, ¿qué más quieres saber?~
+@204 = ~Anillo de Anfetaminas
+Vrooooooooommmmmmm!
+¡Hace que ataques rápido!
+
+CARACTERISTICAS:
+
+Habilidades equipadas:
+- 1/2 ataque adicional por asalto
+- Destreza: +2
+
+Peso: 0
+
+No utilizable por:
+ Asesino de magos~
+
+@211 = ~Capa~
+@212 = ~Espejito espejito en la Pared~
+@213 = ~¿Quién lee las descripciones de los objetos no identificados?~
+@214 = ~Espejito espejito en la Pared
+
+CARACTERISTICAS:
+
+Habilidades equipadas:
+- Refleja todos los ataques a distancia
+- Clase de armadura: +1
+
+Peso: 3
+
+No utilizable por:
+ Asesino de magos~
+
+@221 = ~Túnica~
+@222 = ~Túnica de mago de batalla~
+@223 = ~Identifícalo.~
+@224 = ~Túnica de mago de batalla
+
+CARACTERISTICAS:
+
+Habilidades equipadas:
+- Clase de Armadura: 1
+- Aumenta la velocidad de lanzamiento de hechizos en 2
+- 1/2 ataque adicional por asalto
+- Resistencia al aplastamiento: +40%
+- Regenera 1 punto de vida cada 3 segundos
+
+- Resistencia al daño cortante: -10
+- Resistencia al daño perforante: -25
+- +1 bonus al número de hechizos en los niveles 1º, 2º, 3º, 4º, 5º y 6º 
+
+Peso: 4
+
+Utilizable por:
+ Mago~
+
+@231 = ~Yelmo~
+@232 = ~Yelmo de la mortalidad~
+@233 = ~Ouch~
+@234 = ~Yelmo de la mortalidad
+Este yelmo increíblemente poderoso otorga a su portador unas protecciones impresionantes.
+El inconveniente es que, para proteger a su portador, el yelmo debe recurrir a su vitalidad.
+
+CARACTERISTICAS:
+
+Habilidades equipadas:
+- Inmunidad a la detención del tiempo
+- Inmunidad al Encarcelamiento
+- Resistencia mágica +50%
+
+- Puntos de vida máximos: -2 CADA vez que se equipa (efecto permanente)
+- Puntos de vida máximos: -20 mientras esté equipado
+- Constitución: fijada en 5
+
+Peso: 2
+
+No utilizable por:
+ Asesino de magos
+ Kensai~
+
+@241 = ~Braceros~
+@242 = ~¡Deprisa! ¡Deprisa!~
+@243 = ~Que?~
+@244 = ~¡Deprisa! ¡Deprisa!
+Oooohhh, bonito efecto. Lástima que no se puede golpear el costado de un establo.
+
+CARACTERISTICAS:
+
+Habilidades equipadas:
+- Prisa mejorada permanente
+- GACO: -5 Bonificación
+
+Peso: 2
+
+No utilizable por:
+ Asesino de magos
+ Kensai~
+
+@251 = ~Guerrero de la Paz~
+@252 = ~Guerrero de la Paz
+Si has encontrado este objeto, siéntete especial, es MUY difícil de conseguir.
+Si hiciste trampa, que te atropelle un camión.
+
+CARACTERISTICAS:
+
+Habilidades equipadas:
+- Concede varias protecciones a todas las clases de guerreros.
+- Clase de Armadura: +4
+- Resistencia a perforación, contundente y cortante: +25%
+
+Peso: 0
+
+No utilizable por:
+ Asesino de magos~
+
+@261 = ~Serenidad del Mago~
+@262 = ~Serenidad del Mago
+Si has encontrado este objeto, siéntete especial, es MUY difícil de conseguir.
+Si hiciste trampa, que te atropelle un camión.
+
+CARACTERISTICAS:
+
+Habilidades equipadas:
+- Concede diferentes protecciones a todas las clases de mago.
+- Resistencia mágica: +80%
+- Inmunidad a la detención del tiempo
+
+Peso: 0
+
+No utilizable por:
+ Asesino de magos~
+
+
+/* ================= *
+ *  Usability flags  *
+ * ================= */
+@9001 = ~[Uu]sable[ %tab%]+[Bb]y[ %tab%]*:~
+@9002 = ~\(Not[ %tab%]+\|Un\)[Uu]sable[ %tab%]+[Bb]y[ %tab%]*:~
+
