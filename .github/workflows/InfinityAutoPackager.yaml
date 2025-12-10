@@ -1,7 +1,7 @@
-# WeiDU Mod Packager by Argent77
-# See: https://github.com/InfinityTools/WeiduModPackager
+# Infinity Auto Packager by AL|EN (alienquake@hotmail.com)
+# A tool that automatically generates Infinity Engine mod packages when you publish a release.
 
-name: 'WeiDU Mod Packager (iemod; win/lin/mac: amd64; use tp2 VERSION suffix)'
+name: Infinity Auto Packager
 
 on:
   release:
@@ -9,17 +9,6 @@ on:
   workflow_dispatch:
 
 jobs:
-  call_workflow:
-    strategy:
-      matrix:
-        type: [iemod, windows, linux, macos]
-
-    permissions:
-      contents: write
-
-    uses: InfinityTools/WeiduModPackagerLibrary/.github/workflows/WeiduModPackagerLibrary.yml@master
-    with:
-      type: ${{ matrix.type }}
-      architecture: amd64
-      suffix: version
-      naming: tp2
+  call-workflow:
+    uses: ALIENQuake/InfinityAutoPackagerGlobal/.github/workflows/InfinityAutoPackagerGlobal.yaml@master
+    permissions: write-all
