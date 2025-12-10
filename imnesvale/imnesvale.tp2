@@ -4,7 +4,8 @@ SUPPORT ~Spellhold Studios at http://www.shsforums.net/topic/32419-ds-odd-quest-
 
 VERSION ~v2.2.2~
 
-README ~imnesvale/readme/imnesvale-readme.txt~
+README ~imnesvale/lang/%LANGUAGE%/imnesvale-readme.txt~
+       ~imnesvale/imnesvale-readme.txt~
 
 
 ALWAYS
@@ -60,20 +61,20 @@ LANGUAGE ~Deutsch (Uebersetzung von BiG World Textpack German project)~
 		 ~imnesvale/lang/german/setup.tra~
 		 ~imnesvale/lang/german/misc.tra~
 
-LANGUAGE ~Russian (translation by prowler)~
-         ~russian~
-		 ~imnesvale/lang/russian/setup.tra~
-		 ~imnesvale/lang/russian/misc.tra~
+LANGUAGE ~Francais (traduction par Deratiseur)~
+         ~french~
+		 ~imnesvale/lang/french/setup.tra~
+		 ~imnesvale/lang/french/misc.tra~
 
 LANGUAGE ~Italiano (traduzione di ilot)~
          ~italian~
 		 ~imnesvale/lang/italian/setup.tra~
 		 ~imnesvale/lang/italian/misc.tra~
 
-LANGUAGE ~Francais (traduction par Deratiseur)~
-         ~french~
-		 ~imnesvale/lang/french/setup.tra~
-		 ~imnesvale/lang/french/misc.tra~
+LANGUAGE ~Russian (translation by prowler)~
+         ~russian~
+		 ~imnesvale/lang/russian/setup.tra~
+		 ~imnesvale/lang/russian/misc.tra~
 
 
 /* ====================== *
