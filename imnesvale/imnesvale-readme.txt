@@ -95,10 +95,20 @@ END SPOILERS
 VERSION HISTORY
 ===============
 
+Version 2.2.2 (December 5, 2025)
+- Fixed Hard difficulty install error.
+- Inversion: now the guy has less chance to dispel when held in easy difficulty, and better chances on harder difficulty.
+
+Version 2.2.1 (August 29, 2025)
+- Various fixes (by Rivvers)
+
+Version 2.2 (August 29, 2025)
+- Added French translation (by Deratiseur)
+
 Version 2.1 (August 30, 2020)
 - Added Italian translation (by ilot).
 
-Version 2.0 (June 2d, 2020)
+Version 2.0 (June 2, 2020)
 - Added "imnesvale.ini" metadata file to support AL|EN's "Project Infinity".
 - Renamed "setup-imnesvale.tp2" -> "imnesvale.tp2" and moved it into mod top folder to support AL|EN's "Project Infinity".
 - Replaced `AUTHOR` keyword with `SUPPORT`.
