@@ -3,68 +3,68 @@
  * --------- */
 // dujug.d
 // -------
-@1 = ~Wer seid Ihr? Es ist nicht von Bedeutung, ich bin gekommen, um diese jämmerliche Stadt zu erobern. Nur eine kurze Unterbrechung auf meinem Weg zur Welteroberung. Verbeugt Euch vor Eurem neuen Meister und ich verschone vielleicht Eure elenden Leben.~
-@2 = ~Ähm. Habt Ihr irgendeine Ahnung, wer wir sind? Oder seid Ihr nur ein anderer dummer Größenwahnsinniger? Ich tippe auf das Letztere.~
-@3 = ~Äh. Hallo dort.~
+@1 = ~Wer seid Ihr? Es ist nicht von Bedeutung, ich bin gekommen, um diese jÃ¤mmerliche Stadt zu erobern. Nur eine kurze Unterbrechung auf meinem Weg zur Welteroberung. Verbeugt Euch vor Eurem neuen Meister und ich verschone vielleicht Eure elenden Leben.~
+@2 = ~Ã„hm. Habt Ihr irgendeine Ahnung, wer wir sind? Oder seid Ihr nur ein anderer dummer GrÃ¶ÃŸenwahnsinniger? Ich tippe auf das Letztere.~
+@3 = ~Ã„h. Hallo dort.~
 @4 = ~Oh Gott, nicht noch einer. Ist etwas im Wasser, oder ziehe ich Wahnsinnige einfach  an?~
 @5 = ~Was? Der Wurm will mich ansprechen? Geht weiter, Armseliger.~ ~Was? Der Wurm will mich ansprechen? Geht weiter, Armselige.~
-@6 = ~Verdammt, warum, warum, warum, ich? Wollt Ihr friedlich weggehen, oder muss ich Euch den Schädel einschlagen?~
-@7 = ~Äh. Womit können wir Euch helfen?~
-@8 = ~Ihr wagt es, mich zu beleidigen. Mich?! Ha! Ich werde meine Klinge nicht mit dem Blut von jemand so elenden wie Euch besudeln. Fallt zu meinen Günstlingen!~
+@6 = ~Verdammt, warum, warum, warum, ich? Wollt Ihr friedlich weggehen, oder muss ich Euch den SchÃ¤del einschlagen?~
+@7 = ~Ã„h. Womit kÃ¶nnen wir Euch helfen?~
+@8 = ~Ihr wagt es, mich zu beleidigen. Mich?! Ha! Ich werde meine Klinge nicht mit dem Blut von jemand so elenden wie Euch besudeln. Fallt zu meinen GÃ¼nstlingen!~
 @9 = ~Oh, haut ab!~
-@10 = ~Sie sagten alle, dass ich wahnsinnig sei, aber ich werde es ihnen zeigen.... Ich werde meine Theorie beweisen, dass unser Weltall nichts weiter ist als ein Sandkorn an einem unendlichen Strand! Uups. Falsches Spiel. Äm. Ja, also, ich werde Euch jetzt verlassen.~
+@10 = ~Sie sagten alle, dass ich wahnsinnig sei, aber ich werde es ihnen zeigen.... Ich werde meine Theorie beweisen, dass unser Weltall nichts weiter ist als ein Sandkorn an einem unendlichen Strand! Uups. Falsches Spiel. Ã„m. Ja, also, ich werde Euch jetzt verlassen.~
 @11 = ~Ich denke, dass ich gleich weinen werde.~
-@12 = ~Ihr wollt meine Lebengeschichte? Sehr gut. Also, zunächst einmal wurde ich geboren in...~ 
-@13 = ~Tatsächlich bat ich nicht um Eure Lebengeschichte, ich fragte nur, was zum Teufel Ihr hier tut. Nur damit ich weiß, ob ich Euch töten soll oder nicht.~
-@14 = ~Äh. Ich hasse es, zu unterbrechen, aber können wir das abkürzen und zum gewalttätigen Teil kommen?~
-@15 = ~Oh. Aber wollt Ihr nicht die tragische Geschichte meiner Vergangenheit hören?~
-@16 = ~Nein, nicht wirklich. Ich bin werde Euch schließlich töten, was kümmert mich Eure tragische Vergangenheit?~
+@12 = ~Ihr wollt meine Lebengeschichte? Sehr gut. Also, zunÃ¤chst einmal wurde ich geboren in...~ 
+@13 = ~TatsÃ¤chlich bat ich nicht um Eure Lebengeschichte, ich fragte nur, was zum Teufel Ihr hier tut. Nur damit ich weiÃŸ, ob ich Euch tÃ¶ten soll oder nicht.~
+@14 = ~Ã„h. Ich hasse es, zu unterbrechen, aber kÃ¶nnen wir das abkÃ¼rzen und zum gewalttÃ¤tigen Teil kommen?~
+@15 = ~Oh. Aber wollt Ihr nicht die tragische Geschichte meiner Vergangenheit hÃ¶ren?~
+@16 = ~Nein, nicht wirklich. Ich bin werde Euch schlieÃŸlich tÃ¶ten, was kÃ¼mmert mich Eure tragische Vergangenheit?~
 @17 = ~*Seufz* Ich nehme es an. Es ist nicht so, dass ich nichts besser zu tun habe, wie zum Beispiel eine Elfen-Stadt vor einem psychotischen Wahnsinnigen, zu retten.~
-@18 = ~Sehr gut, Schwächling. Betet zu Euren Göttern, bevor ich Euch zerquetsche.~
-@19 = ~Genau. Lasst uns gewalttätig werden!~
-@20 = ~Sehr gut, es begann alles während der Zeit der Schwierigkeiten, als die Götter auf der Erde wandelten. Wie Ihr vielleicht wisst, zeugte der tote Gott Bhaal mehrere Kinder mit Sterblichen, um sein Wiederaufleben zu ermöglichen. Ich bin eines jener Kinder, meine Mutter war eine starke Magierin im Dienst in einem von Bhaals Tempeln. Als die Zeit für mich kam, geopfert zu werden, konnte meine Mutter es nicht verkraften, und zauberte mich weg.~
+@18 = ~Sehr gut, SchwÃ¤chling. Betet zu Euren GÃ¶ttern, bevor ich Euch zerquetsche.~
+@19 = ~Genau. Lasst uns gewalttÃ¤tig werden!~
+@20 = ~Sehr gut, es begann alles wÃ¤hrend der Zeit der Schwierigkeiten, als die GÃ¶tter auf der Erde wandelten. Wie Ihr vielleicht wisst, zeugte der tote Gott Bhaal mehrere Kinder mit Sterblichen, um sein Wiederaufleben zu ermÃ¶glichen. Ich bin eines jener Kinder, meine Mutter war eine starke Magierin im Dienst in einem von Bhaals Tempeln. Als die Zeit fÃ¼r mich kam, geopfert zu werden, konnte meine Mutter es nicht verkraften, und zauberte mich weg.~
 @21 = ~Und ich sorge mich... warum?~
-@22 = ~Oh Mann, ein weiteres meiner Geschwister mit schwachsinnigen Träumen von Eroberung, lasst uns einfach weitergehen und einander zu blutigen Brei schlagen, es ist das, was sowieso geschehen wird.~
-@23 = ~Seid still, Sterblicher! Lasst die Leute über Euch sprechen. Hm! Nun, wie ich SAGTE, zauberte meine Mutter mich weg, aber sie wurde bei dem Versuch schlimm verletzt. Sie starb nicht lange danach und ließ mich, ein kleines Kind, allein in dieser grausamen grausamen Welt zurück.~ ~Seid still, Sterbliche! Lasst die Leute über Euch sprechen. Hm! Nun, wie ich SAGTE, zauberte meine Mutter mich weg, aber sie wurde bei dem Versuch schlimm verletzt. Sie starb nicht lange danach und ließ mich, ein kleines Kind, allein in dieser grausamen grausamen Welt zurück.~
-@24 = ~Nun gut, ich habe genug von dieser rührseligen Geschichte. Zeit, um zu sterben.~
+@22 = ~Oh Mann, ein weiteres meiner Geschwister mit schwachsinnigen TrÃ¤umen von Eroberung, lasst uns einfach weitergehen und einander zu blutigen Brei schlagen, es ist das, was sowieso geschehen wird.~
+@23 = ~Seid still, Sterblicher! Lasst die Leute Ã¼ber Euch sprechen. Hm! Nun, wie ich SAGTE, zauberte meine Mutter mich weg, aber sie wurde bei dem Versuch schlimm verletzt. Sie starb nicht lange danach und lieÃŸ mich, ein kleines Kind, allein in dieser grausamen grausamen Welt zurÃ¼ck.~ ~Seid still, Sterbliche! Lasst die Leute Ã¼ber Euch sprechen. Hm! Nun, wie ich SAGTE, zauberte meine Mutter mich weg, aber sie wurde bei dem Versuch schlimm verletzt. Sie starb nicht lange danach und lieÃŸ mich, ein kleines Kind, allein in dieser grausamen grausamen Welt zurÃ¼ck.~
+@24 = ~Nun gut, ich habe genug von dieser rÃ¼hrseligen Geschichte. Zeit, um zu sterben.~
 @25 = ~Bitte geht weiter, es scheint, dass Ihr eine schreckliche Kindheit hattet.~
-@26 = ~Ihr wagt es, mich herablassend zu behandeln?!? Habt Ihr irgendeine Ahnung, mit wem Ihr Euch anlegt? Sterbt, Ihr Unverschämter!~ ~Ihr wagt es, mich herablassend zu behandeln?!? Habt Ihr irgendeine Ahnung, mit wem Ihr Euch anlegt? Sterbt, Ihr Unverschämte!~
-@27 = ~Hoppla, ich hätte das kommen sehen sollen.~
-@28 = ~Ihr habt meinen Sohn ermordet, jetzt werde ich mich persönlich mit Euch befassen, bereitet Euch darauf vor, eine Ewigkeit an Qualen zu ertragen! Klang das allzu dramatisch? Ich kann mich nicht ganz von meiner Geburt freimachen.~
-@29 = ~Ein wenig, das ganze Ewigkeitsding war ein wenig zu viel des Guten, aber he, wen kümmert's, wir werden einander ohnehin abschlachten.~
-@30 = ~Überhaupt nicht, wir hackten gerade Euren Sohn in winzig kleine Stückchen. Und Euch als nächstes.~
+@26 = ~Ihr wagt es, mich herablassend zu behandeln?!? Habt Ihr irgendeine Ahnung, mit wem Ihr Euch anlegt? Sterbt, Ihr UnverschÃ¤mter!~ ~Ihr wagt es, mich herablassend zu behandeln?!? Habt Ihr irgendeine Ahnung, mit wem Ihr Euch anlegt? Sterbt, Ihr UnverschÃ¤mte!~
+@27 = ~Hoppla, ich hÃ¤tte das kommen sehen sollen.~
+@28 = ~Ihr habt meinen Sohn ermordet, jetzt werde ich mich persÃ¶nlich mit Euch befassen, bereitet Euch darauf vor, eine Ewigkeit an Qualen zu ertragen! Klang das allzu dramatisch? Ich kann mich nicht ganz von meiner Geburt freimachen.~
+@29 = ~Ein wenig, das ganze Ewigkeitsding war ein wenig zu viel des Guten, aber he, wen kÃ¼mmert's, wir werden einander ohnehin abschlachten.~
+@30 = ~Ãœberhaupt nicht, wir hackten gerade Euren Sohn in winzig kleine StÃ¼ckchen. Und Euch als nÃ¤chstes.~
 
 @44 = ~Weinen? Wartet, ich denke, dass ich hier irgendwo ein Taschentuch habe...~ 
-@45 = ~Er durchstöbert einen sehr großen Rucksack...~
-@46 = ~Wartet! Ihr versucht, mich zu beschwindeln! Ich besitze kein Taschentuch! Jetzt sollen meine Günstlinge Euch vernichten.~
-@47 = ~Könnte ich jemals mit einem ZURECHNUNGSFÄHIGEN Bösewicht kämpfen? Ich meine, ist das zu viel verlangt?~
-@48 = ~Wartet, sagt mir nicht, dass Ihr ein anderer Haufen Gutmenschen seid, die immer die großartigen Pläne eines schlechten Bhaalsprosses wie mir stören. Habt Ihr Leute nicht IRGENDETWAS besseres zu tun? Wie alten Damen helfen, über die Straße zu gehen oder etwas in der Art? Nun, trotzdem übernehme ich diese Stadt! Und diesmal hat das Böse eine anständige Chance zu gewinnen!~
+@45 = ~Er durchstÃ¶bert einen sehr groÃŸen Rucksack...~
+@46 = ~Wartet! Ihr versucht, mich zu beschwindeln! Ich besitze kein Taschentuch! Jetzt sollen meine GÃ¼nstlinge Euch vernichten.~
+@47 = ~KÃ¶nnte ich jemals mit einem ZURECHNUNGSFÃ„HIGEN BÃ¶sewicht kÃ¤mpfen? Ich meine, ist das zu viel verlangt?~
+@48 = ~Wartet, sagt mir nicht, dass Ihr ein anderer Haufen Gutmenschen seid, die immer die groÃŸartigen PlÃ¤ne eines schlechten Bhaalsprosses wie mir stÃ¶ren. Habt Ihr Leute nicht IRGENDETWAS besseres zu tun? Wie alten Damen helfen, Ã¼ber die StraÃŸe zu gehen oder etwas in der Art? Nun, trotzdem Ã¼bernehme ich diese Stadt! Und diesmal hat das BÃ¶se eine anstÃ¤ndige Chance zu gewinnen!~
 
 // dumayor.d
 // ---------
-@31 = ~Bitte, Ihr müsst unser armes Dorf schützen, <LADYLORD>! Ein böser Magier hat kleine Dörfer nördlich von hier übernommen. Er verwandelt die Bevölkerung in Sklaven für seine  stets wachsende Armee! Ich werde hier bleiben und unsere Verteidigung organisieren. Die anderen haben sich bereits im Gasthof versammelt.~
-@32 = ~Natürlich, guter Bürgermeister, wie könnte ich weniger tun? (Wer schreibt diesen Scheißdialog?)~
+@31 = ~Bitte, Ihr mÃ¼sst unser armes Dorf schÃ¼tzen, <LADYLORD>! Ein bÃ¶ser Magier hat kleine DÃ¶rfer nÃ¶rdlich von hier Ã¼bernommen. Er verwandelt die BevÃ¶lkerung in Sklaven fÃ¼r seine  stets wachsende Armee! Ich werde hier bleiben und unsere Verteidigung organisieren. Die anderen haben sich bereits im Gasthof versammelt.~
+@32 = ~NatÃ¼rlich, guter BÃ¼rgermeister, wie kÃ¶nnte ich weniger tun? (Wer schreibt diesen ScheiÃŸdialog?)~
 @33 = ~Ich glaube nicht, Ihr Kerle seid auf Euch selbst gestellt.~
-@34 = ~Wieder einmal kommt Ihr zu uns in der Stunde der Not, <LADYLORD>. Bitte denkt daran, wenn entweder meine Frau oder ich ermordet werden, wird unsere spärliche Verteidigung zerbröckeln und alle sind verloren. Schützt uns um jeden Preis. Ha. Diesmal können die blöden Bürger nicht abgeschlachtet werden.~
-@35 = ~Natürlich, Bürgermeister. Fürchtet Euch nicht.~
+@34 = ~Wieder einmal kommt Ihr zu uns in der Stunde der Not, <LADYLORD>. Bitte denkt daran, wenn entweder meine Frau oder ich ermordet werden, wird unsere spÃ¤rliche Verteidigung zerbrÃ¶ckeln und alle sind verloren. SchÃ¼tzt uns um jeden Preis. Ha. Diesmal kÃ¶nnen die blÃ¶den BÃ¼rger nicht abgeschlachtet werden.~
+@35 = ~NatÃ¼rlich, BÃ¼rgermeister. FÃ¼rchtet Euch nicht.~
 @36 = ~Bitte <LADYLORD>, ohne Euch haben wir keine Chance!~
 @37 = ~Sehr gern, aber ich erwarte, sehr gut belohnt zu werden.~
 @38 = ~Pah. DANN glaube ich, dass Ihr keine Chance habt, nicht wahr?~
-@39 = ~Sehr gern. Dann akzeptieren wir unser Schicksal, und mögen die Götter Euch für das niederschlagen, was Ihr getan habt. Scheißkerl.~
+@39 = ~Sehr gern. Dann akzeptieren wir unser Schicksal, und mÃ¶gen die GÃ¶tter Euch fÃ¼r das niederschlagen, was Ihr getan habt. ScheiÃŸkerl.~
 @40 = ~Ha. Ich gestalte mein eigenes Schicksal, die Gotter verlangen nichtsdestoweniger.~
 
-@50 = ~Sie werden von einem starken Magier namens Jugend angeführt. Er hat zwei Leutnants, einem Magier namens Ayrus und eine Magierin namens Maia. Jeder von ihnen leitet eine Abteilung seiner Armee. Sein Sohn führt die dritte Abteilung. Hütet Euch vor seinem Sohn, er ist ein starker Kämpfer, mit dem nicht zu spaßen ist.~
-@51 = ~Angeblich ist seine Armee fast unerschöpflich, aber um fortsetzend Verstärkungen ins Spiel zu bringen, müssen seine beiden Leutnants und sein Sohn Portale offen halten.~
-@52 = ~Durch die Tötung seines Sohns werdet Ihr die unteren beiden Portale schließen und durch die Tötung seiner Leutnants werdet Ihr die drei oberen Portale schließen.~
-@53 = ~Wollt Ihr, dass ich Euch alle Arten von Dingen über Jugends Armee sage, die ich gar nicht wissen sollte?~
-@54 = ~Sicher. Ich liebe es immer, wenn Charaktere mir GENAU erklären, was ich tun soll.~
-@55 = ~Nein. Ich mag wirklich einige Dinge selbst herausfinden. Allerdings, nachdem ich fünf- oder sechsmal sterbe, werde ich die andere Option wählen.~
-@56 = ~Also, diejenigen, denen Ihr in der Vergangenheit geholfen habt, werden kommen, um Euch zu helfen. Setzt sie gut ein. Wir haben nur ein paar Minuten, bevor sie angreifen. Und vergesst nicht, LASST MICH NICHT STERBEN. Viel Glück. Dieser Tagelöhner wird sich in 5 Sekunden selbst zerstören.~
+@50 = ~Sie werden von einem starken Magier namens Jugend angefÃ¼hrt. Er hat zwei Leutnants, einem Magier namens Ayrus und eine Magierin namens Maia. Jeder von ihnen leitet eine Abteilung seiner Armee. Sein Sohn fÃ¼hrt die dritte Abteilung. HÃ¼tet Euch vor seinem Sohn, er ist ein starker KÃ¤mpfer, mit dem nicht zu spaÃŸen ist.~
+@51 = ~Angeblich ist seine Armee fast unerschÃ¶pflich, aber um fortsetzend VerstÃ¤rkungen ins Spiel zu bringen, mÃ¼ssen seine beiden Leutnants und sein Sohn Portale offen halten.~
+@52 = ~Durch die TÃ¶tung seines Sohns werdet Ihr die unteren beiden Portale schlieÃŸen und durch die TÃ¶tung seiner Leutnants werdet Ihr die drei oberen Portale schlieÃŸen.~
+@53 = ~Wollt Ihr, dass ich Euch alle Arten von Dingen Ã¼ber Jugends Armee sage, die ich gar nicht wissen sollte?~
+@54 = ~Sicher. Ich liebe es immer, wenn Charaktere mir GENAU erklÃ¤ren, was ich tun soll.~
+@55 = ~Nein. Ich mag wirklich einige Dinge selbst herausfinden. Allerdings, nachdem ich fÃ¼nf- oder sechsmal sterbe, werde ich die andere Option wÃ¤hlen.~
+@56 = ~Also, diejenigen, denen Ihr in der Vergangenheit geholfen habt, werden kommen, um Euch zu helfen. Setzt sie gut ein. Wir haben nur ein paar Minuten, bevor sie angreifen. Und vergesst nicht, LASST MICH NICHT STERBEN. Viel GlÃ¼ck. Dieser TagelÃ¶hner wird sich in 5 Sekunden selbst zerstÃ¶ren.~
 @57 = ~Also gut dann.~
-@58 = ~Dann viel Glück, <LADYLORD>, wir haben nur ein paar Minuten, bevor sie angreifen.~
+@58 = ~Dann viel GlÃ¼ck, <LADYLORD>, wir haben nur ein paar Minuten, bevor sie angreifen.~
 
-@88 = ~Danke, <LADYLORD>! Ihr habt wieder einmal unser Dorf gerettet. Nehmt bitte dies als kleines Zeichen unseres Danks. Meine Frau und ich müssen jetzt dem Rest unserer Dorfbewohner helfen.~
-@89 = ~Warum müssen wir immer JEDEN retten? Oh. Stimmt. Weil es unglaublich langweilig wäre, wenn wir nur herumlaufen würden, während jemand anderes die ganze Arbeit täte. Es ist wie in meinem echten Leben.~
+@88 = ~Danke, <LADYLORD>! Ihr habt wieder einmal unser Dorf gerettet. Nehmt bitte dies als kleines Zeichen unseres Danks. Meine Frau und ich mÃ¼ssen jetzt dem Rest unserer Dorfbewohner helfen.~
+@89 = ~Warum mÃ¼ssen wir immer JEDEN retten? Oh. Stimmt. Weil es unglaublich langweilig wÃ¤re, wenn wir nur herumlaufen wÃ¼rden, wÃ¤hrend jemand anderes die ganze Arbeit tÃ¤te. Es ist wie in meinem echten Leben.~
 
 // duwife.d
 // --------
@@ -75,23 +75,23 @@
 
 // dumad.d
 // -------
-@60 = ~Wir sind gekommen, um unseren Teil des Abkommens zu erfüllen. Wir werden helfen, das Dorf zu schützen. Sagt uns, was zu tun ist.~
-@61 = ~Großartig. Vielen Dank für Eure Hilfe, Madulf.~
+@60 = ~Wir sind gekommen, um unseren Teil des Abkommens zu erfÃ¼llen. Wir werden helfen, das Dorf zu schÃ¼tzen. Sagt uns, was zu tun ist.~
+@61 = ~GroÃŸartig. Vielen Dank fÃ¼r Eure Hilfe, Madulf.~
 
-@99 = ~Es ist vorbei, wenn wir damit fertig sind, den Überlebenden zu helfen, werden wir zu unserem Platz im Norden des Dorfes zurückkehren.~
-@100 = ~Danke für Eure Hilfe, Madulf.~
+@99 = ~Es ist vorbei, wenn wir damit fertig sind, den Ãœberlebenden zu helfen, werden wir zu unserem Platz im Norden des Dorfes zurÃ¼ckkehren.~
+@100 = ~Danke fÃ¼r Eure Hilfe, Madulf.~
 
 // dudyrad.d
 // ---------
-@62 = ~Seid gegrüßt, Beschützer des Waldes. Die Geister des Waldes sind gekommen, um Euch gegen das Böse zu helfen, das das Land bedroht.~
-@63 = ~Alle Hilfe ist willkommen. Der bevorstehende Kampf wird äußerst zäh sein.~
+@62 = ~Seid gegrÃ¼ÃŸt, BeschÃ¼tzer des Waldes. Die Geister des Waldes sind gekommen, um Euch gegen das BÃ¶se zu helfen, das das Land bedroht.~
+@63 = ~Alle Hilfe ist willkommen. Der bevorstehende Kampf wird Ã¤uÃŸerst zÃ¤h sein.~
 
 // Seem to be unused
 // -----------------
-@41 = ~Jugend zieht Macht von einem seiner Untergebenen ab. Er wird völlig geheilt!~
+@41 = ~Jugend zieht Macht von einem seiner Untergebenen ab. Er wird vÃ¶llig geheilt!~
 @42 = ~Jugend versucht, Macht von einem seiner Untergebenen abzuziehen, aber Ihr habt beide ermordet!~
-@43 = ~Ahh, verdammt. Dort geht der Bürgermeister.~
-@49 = ~Nun, <LADYLORD>, lasst mich Euch erzählen, was ich über unsere Angreifer erfahren habe...~ 
+@43 = ~Ahh, verdammt. Dort geht der BÃ¼rgermeister.~
+@49 = ~Nun, <LADYLORD>, lasst mich Euch erzÃ¤hlen, was ich Ã¼ber unsere Angreifer erfahren habe...~ 
 
 
 /* --------- *
@@ -99,12 +99,12 @@
  * --------- */
 // duar1100.baf
 // ------------
-@98 = ~Mit Eurem letzten Streich fällt Jugend. Die Stadt Imnestal ist wieder sicher. Hoffentlich überlebten alle Städter unverletzt.~
+@98 = ~Mit Eurem letzten Streich fÃ¤llt Jugend. Die Stadt Imnestal ist wieder sicher. Hoffentlich Ã¼berlebten alle StÃ¤dter unverletzt.~
 
 // duarim.baf, duayrus.baf, ducaster.baf, dufm.baf, dujug.baf, dumaia.baf, durak.baf
 // ---------------------------------------------------------------------------------
-@64 = ~Ein Zauberauslöser ist ausgelöst!~
-@65 = ~Ein Notfallzauber wird ausgelöst!~
+@64 = ~Ein ZauberauslÃ¶ser ist ausgelÃ¶st!~
+@65 = ~Ein Notfallzauber wird ausgelÃ¶st!~
 
 // duarim.baf
 // ----------

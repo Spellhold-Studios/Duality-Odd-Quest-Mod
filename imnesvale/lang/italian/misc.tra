@@ -34,7 +34,7 @@
  * ------- */
 @201 = ~Anello~
 @202 = ~Anello di Anfetamine~
-@203 = ~Eí un anello, cosíaltro hai bisogno di sapere?~
+@203 = ~E‚Äô un anello, cos‚Äôaltro hai bisogno di sapere?~
 @204 = ~Anello di Anfetamine
 Vrooooooooommmmmmm!
 Rende veloce il tuo attacco!
@@ -57,7 +57,7 @@ Non utilizzabile da:
 
 STATISTICHE:
 
-Abilit‡ di Equipaggiamento:
+Abilit√† di Equipaggiamento:
 - Riflette tutti gli attacchi a distanza
 - Bonus alla Classe Armatura: +1
 
@@ -73,9 +73,9 @@ Non utilizzabile da:
 
 STATISTICHE:
 
-Abilit‡ di Equipaggiamento:
+Abilit√† di Equipaggiamento:
 - Bonus alla Classe Armatura: 1
-- Incrementa la velocit‡ di lancio degli incantesimi di 2
+- Incrementa la velocit√† di lancio degli incantesimi di 2
 - Aggiunge un attacco supplementare di 1/2 ad ogni round
 - Resistenza ai Danni da Schiacciamento: +40%
 - Rigenera 1 Punto ferita ogni 3 secondi
@@ -90,21 +90,21 @@ Utilizzabile da:
  Mago~
 
 @231 = ~Elmo~
-@232 = ~Elmo della Mortalit‡ ~
+@232 = ~Elmo della Mortalit√† ~
 @233 = ~Ahi~
-@234 = ~Elmo della Mortalit‡
+@234 = ~Elmo della Mortalit√†
 Questo elmo incredibilmente potente conferisce diverse protezioni impressionanti al suo possessore.
-Lo svantaggio È che per proteggere il suo possessore líelmo deve assorbire la vitalit‡ del suo proprietario.
+Lo svantaggio √© che per proteggere il suo possessore l‚Äôelmo deve assorbire la vitalit√† del suo proprietario.
 
 STATISTICHE:
 
-Abilit‡ di Equipaggiamento:
-- Immunit‡ a Fermare il Tempo
-- Immunit‡ allíImprigionamento
+Abilit√† di Equipaggiamento:
+- Immunit√† a Fermare il Tempo
+- Immunit√† all‚ÄôImprigionamento
 - Resistenza alla Magia: +50%
 
-- -2 al Massimo dei Punti ferita OGNI volta che viene indossato (líeffetto Ë permanente)
-- -20 al Massimo dei Punti ferita mentre Ë indossato
+- -2 al Massimo dei Punti ferita OGNI volta che viene indossato (l‚Äôeffetto √® permanente)
+- -20 al Massimo dei Punti ferita mentre √® indossato
 - Costituzione: impostata a 5
 
 Peso: 2
@@ -117,12 +117,12 @@ Non utilizzabile da:
 @242 = ~Sbrigati! Sbrigati!~
 @243 = ~Cosa?~
 @244 = ~Sbrigati! Sbrigati!
-Oooohhh, ha uníabile effetto. Peccato che non puoi colpire violentemente la fiancata di un fienile.
+Oooohhh, ha un‚Äôabile effetto. Peccato che non puoi colpire violentemente la fiancata di un fienile.
 
 STATISTICHE:
 
-Abilit‡ di Equipaggiamento:
-- Velocit‡ Potenziata Permanente
+Abilit√† di Equipaggiamento:
+- Velocit√† Potenziata Permanente
 - THACO: -5 di Bonus
 
 Peso: 2
@@ -131,13 +131,13 @@ Non utilizzabile da:
  Ammazzastregoni
  Kensai~
 
-@251 = ~La Serenit‡ dei Guerrieri~
-@252 = ~La Serenit‡ dei Guerrieri
-Se riesci a trovare questo oggetto, considerati fortunato, È MOLTO difficile da trovare. Se hai imbrogliato, sarai colpito da un oggetto pesante.
+@251 = ~La Serenit√† dei Guerrieri~
+@252 = ~La Serenit√† dei Guerrieri
+Se riesci a trovare questo oggetto, considerati fortunato, √© MOLTO difficile da trovare. Se hai imbrogliato, sarai colpito da un oggetto pesante.
 
 STATISTICHE:
 
-Abilit‡ di Equipaggiamento:
+Abilit√† di Equipaggiamento:
 - Concede diverse protezioni a tutte le classi di Guerrieri.
 - Bonus della Classe Armatura: +4
 - Resistenza ai Danni Perforanti, Contundenti, Taglienti: +25%
@@ -147,17 +147,17 @@ Peso: 0
 Non utilizzabile da:
  Ammazzastregoni~
 
-@261 = ~La Serenit‡ dei Maghi ~
-@262 = ~La Serenit‡ dei Maghi
-Se riesci a trovare questo oggetto, considerati fortunato, È MOLTO difficile da trovare.
+@261 = ~La Serenit√† dei Maghi ~
+@262 = ~La Serenit√† dei Maghi
+Se riesci a trovare questo oggetto, considerati fortunato, √© MOLTO difficile da trovare.
 Se hai imbrogliato, sarai colpito da un oggetto pesante.
 
 STATISTICHE:
 
-Abilit‡ di Equipaggiamento:
+Abilit√† di Equipaggiamento:
 - Concede diverse protezioni a tutte le classi di Maghi.
 - Resistenza alla Magia: +80%
-- Immunit‡ a Fermare il Tempo
+- Immunit√† a Fermare il Tempo
 
 Peso: 0
 

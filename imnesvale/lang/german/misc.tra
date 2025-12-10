@@ -2,17 +2,17 @@
 /* ----------- *
  *  Creatures  *
  * ----------- */
-@101 = ~Kämpfer~
+@101 = ~KÃ¤mpfer~
 @102 = ~Magier~
 @103 = ~Kleriker~
-@104 = ~Bogenschütze~
-@105 = ~Kämpfer/Dieb~
+@104 = ~BogenschÃ¼tze~
+@105 = ~KÃ¤mpfer/Dieb~
 @106 = ~Barbar~
 @107 = ~Druide~
-@108 = ~Kämpfer/Magier~
+@108 = ~KÃ¤mpfer/Magier~
 @109 = ~Rakshasa~
-@110 = ~Dämon~
-@111 = ~Gruben-Dämonn~
+@110 = ~DÃ¤mon~
+@111 = ~Gruben-DÃ¤monn~
 @112 = ~Arimayus~
 @113 = ~Maia~
 @114 = ~Jugend~
@@ -25,7 +25,7 @@
 @121 = ~Gnoll~
 @122 = ~Ork~
 @123 = ~Herrin Eina~
-@124 = ~Beschützer des Waldes~
+@124 = ~BeschÃ¼tzer des Waldes~
 @125 = ~Ausgeburt 1~
 @126 = ~Ausgeburt 2~
 
@@ -34,35 +34,35 @@
  * ------- */
 @201 = ~Ring~
 @202 = ~Ring der Amphetamine~
-@203 = ~Es ist ein Ring, was müsst Ihr mehr wissen?~
+@203 = ~Es ist ein Ring, was mÃ¼sst Ihr mehr wissen?~
 @204 = ~Ring der Amphetaminen
 Wruuuuuuuuummmmmmm!
-Lässt Euch schneller angreifen!
+LÃ¤sst Euch schneller angreifen!
 
 EIGENSCHAFTEN:
 
- Fügt einen zusätzlichen 1/2 Angriff pro Runde hinzu
+ FÃ¼gt einen zusÃ¤tzlichen 1/2 Angriff pro Runde hinzu
  Geschicklichkeit: +2 Bonus
 
 Gewicht: 0
 
 Kann nicht verwendet werden von:
- Magiertöter~
+ MagiertÃ¶ter~
 
 @211 = ~Umhang~
 @212 = ~Spieglein Spieglein An Der Wand~
-@213 = ~Wer liest überhaupt die unidentifizierten Beschreibungen?~
+@213 = ~Wer liest Ã¼berhaupt die unidentifizierten Beschreibungen?~
 @214 = ~Spieglein Spieglein An Der Wand
 
 EIGENSCHAFTEN:
 
- Wirft alle Angriffe mit Fernkampfwaffen zurück
- Rüstungsklasse-Bonus: +1
+ Wirft alle Angriffe mit Fernkampfwaffen zurÃ¼ck
+ RÃ¼stungsklasse-Bonus: +1
 
 Gewicht: 3
 
 Kann nicht verwendet werden von:
- Magiertöter~
+ MagiertÃ¶ter~
 
 @221 = ~Robe~
 @222 = ~Die Robe der Kampfmagier~
@@ -71,15 +71,15 @@ Kann nicht verwendet werden von:
 
 EIGENSCHAFTEN:
 
- Rüstungsklasse-Bonus: Setzt die Rüstungsklasse auf 1
- Erhöht die Initiative beim Zaubern um 2
- Fügt einen zusätzlichen 1/2 Angriff pro Runde hinzu
+ RÃ¼stungsklasse-Bonus: Setzt die RÃ¼stungsklasse auf 1
+ ErhÃ¶ht die Initiative beim Zaubern um 2
+ FÃ¼gt einen zusÃ¤tzlichen 1/2 Angriff pro Runde hinzu
  40 % Widerstand gegen Zerschmettern
  Stellt 1 Trefferpunkt alle 3 Sekunden wieder her
 
  -10 % Widerstand gegen Aufschlitzen
  -25 % Widerstand gegen Durchbohren
- -1 Bonus zur Anzahl der Zauberersprüche der Stufen 1 - 6
+ -1 Bonus zur Anzahl der ZauberersprÃ¼che der Stufen 1 - 6
 
 Gewicht: 4
 
@@ -91,23 +91,23 @@ Kann nur verwendet werden von:
 @233 = ~Aua~
 @234 = ~Helm der Sterblichkeit
 
-Dieser unglaublich starke Helm verleiht seinem Träger einen eindrucksvollen Schutz.
-Der Nachteil ist, dass der Helm, um seinen Träger zu schützen, sich seiner Lebenskraft bedienen muss.
+Dieser unglaublich starke Helm verleiht seinem TrÃ¤ger einen eindrucksvollen Schutz.
+Der Nachteil ist, dass der Helm, um seinen TrÃ¤ger zu schÃ¼tzen, sich seiner Lebenskraft bedienen muss.
 
 EIGENSCHAFTEN:
 
- Immunität gegen Zeitstop
- Immunität gegen Einkerkerung
+ ImmunitÃ¤t gegen Zeitstop
+ ImmunitÃ¤t gegen Einkerkerung
  50 % Magiewiderstand
 
  -2 Trefferpunkte JEDES Mal wenn er aufgesetzt wird (Wirkung ist dauerhaft)
- -20 Trefferpunkte, während er getragen wird
+ -20 Trefferpunkte, wÃ¤hrend er getragen wird
  Setzt die Konstitution auf 5
 
 Gewicht: 2
 
 Kann nicht verwendet werden von:
- Magiertöter
+ MagiertÃ¶ter
  Kensai~
 
 @241 = ~Armschienen~
@@ -115,7 +115,7 @@ Kann nicht verwendet werden von:
 @243 = ~Was?~
 @244 = ~Beeilung! Beeilung!
 
-Oooohhh, raffinierte Wirkung. Zu blöd, dass Ihr nicht die Breitseite einer Scheune treffen könnt.
+Oooohhh, raffinierte Wirkung. Zu blÃ¶d, dass Ihr nicht die Breitseite einer Scheune treffen kÃ¶nnt.
 
 EIGENSCHAFTEN:
 
@@ -125,42 +125,42 @@ EIGENSCHAFTEN:
 Gewicht: 2
 
 Kann nicht verwendet werden von:
- Magiertöter
+ MagiertÃ¶ter
  Kensai~
 
-@251 = ~Frieden der Kämpfer~
-@252 = ~Frieden der Kämpfer
+@251 = ~Frieden der KÃ¤mpfer~
+@252 = ~Frieden der KÃ¤mpfer
 
-Wenn Ihr diesen Gegenstand gefunden habt, haltet Euch für außerordentlich, er ist SEHR schwer zu kommen.
-Wenn Ihr betrogen habt, sollt Ihr von einen Lastwagen überrollt werden.
+Wenn Ihr diesen Gegenstand gefunden habt, haltet Euch fÃ¼r auÃŸerordentlich, er ist SEHR schwer zu kommen.
+Wenn Ihr betrogen habt, sollt Ihr von einen Lastwagen Ã¼berrollt werden.
 
 EIGENSCHAFTEN:
 
- Gewährt Schutz vor allen Kämpfer-Klassen.
- +4 Rüstungsklasse-Bonus
- 25 % Widerstand gegen Durchbohren/Zertrümmern/Aufschlitzen.
+ GewÃ¤hrt Schutz vor allen KÃ¤mpfer-Klassen.
+ +4 RÃ¼stungsklasse-Bonus
+ 25 % Widerstand gegen Durchbohren/ZertrÃ¼mmern/Aufschlitzen.
 
 Gewicht: 0
 
 Kann nicht verwendet werden von:
- Magiertöter~
+ MagiertÃ¶ter~
 
 @261 = ~Frieden des Magiers~
 @262 = ~Frieden des Magiers
 
-Wenn Ihr diesen Gegenstand gefunden habt, haltet Euch für außerordentlich, er ist SEHR schwer zu kommen.
-Wenn Ihr betrogen habt, sollt Ihr von einen Lastwagen überrollt werden.
+Wenn Ihr diesen Gegenstand gefunden habt, haltet Euch fÃ¼r auÃŸerordentlich, er ist SEHR schwer zu kommen.
+Wenn Ihr betrogen habt, sollt Ihr von einen Lastwagen Ã¼berrollt werden.
 
 EIGENSCHAFTEN:
 
- Gewährt Schutz vor allen Magier-Klassen.
+ GewÃ¤hrt Schutz vor allen Magier-Klassen.
  Magie-Widerstand von 80 %
- Immunität gegen Zeitstop
+ ImmunitÃ¤t gegen Zeitstop
 
 Gewicht: 0
 
 Kann nicht verwendet werden von:
- Magiertöter~
+ MagiertÃ¶ter~
 
 
 /* ================= *

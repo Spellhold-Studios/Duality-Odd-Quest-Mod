@@ -3,94 +3,94 @@
  * --------- */
 // dujug.d
 // -------
-@1  = ~Qui êtes-vous ? Peu importe, je suis venu conquérir cette misérable ville. Ce n'est qu'une étape sur la route de la conquête du monde. Prosternez-vous devant votre nouveau maître et j'épargnerai peut-être vos misérables vies.~
-@2  = ~Hum. Avez-vous la moindre idée de qui nous sommes ? Ou êtes-vous juste un autre crétin de mégalomane ? J'imagine que oui.~
+@1  = ~Qui Ãªtes-vous ? Peu importe, je suis venu conquÃ©rir cette misÃ©rable ville. Ce n'est qu'une Ã©tape sur la route de la conquÃªte du monde. Prosternez-vous devant votre nouveau maÃ®tre et j'Ã©pargnerai peut-Ãªtre vos misÃ©rables vies.~
+@2  = ~Hum. Avez-vous la moindre idÃ©e de qui nous sommes ? Ou Ãªtes-vous juste un autre crÃ©tin de mÃ©galomane ? J'imagine que oui.~
 @3  = ~Euh. Bonjour ?~
-@4  = ~Par pitié, pas encore... Il y a quelques chose dans ce que je bois ou est-ce que j'attire les cinglés ?~
-@5  = ~Qu'est-ce que c'est ? Un ver veut s'adresser à moi ? Parles, misérable.~
-@6  = ~Merde, pourquoi, pourquoi, pourquoi, toujours moi ? Allez vous partir pacifiquement, ou dois-je vous fracasser le crâne ?~
+@4  = ~Par pitiÃ©, pas encore... Il y a quelques chose dans ce que je bois ou est-ce que j'attire les cinglÃ©s ?~
+@5  = ~Qu'est-ce que c'est ? Un ver veut s'adresser Ã  moi ? Parles, misÃ©rable.~
+@6  = ~Merde, pourquoi, pourquoi, pourquoi, toujours moi ? Allez vous partir pacifiquement, ou dois-je vous fracasser le crÃ¢ne ?~
 @7  = ~Euh... Que pouvons-nous faire pour vous ?~
-@8  = ~Tu. Oses. M’insulter. Moi ?! Ha ! Je ne souillerai pas ma lame avec le sang d'un être aussi pathétique que toi. Tu tomberas sous les coups de mes sbires !~
+@8  = ~Tu. Oses. Mâ€™insulter. Moi ?! Ha ! Je ne souillerai pas ma lame avec le sang d'un Ãªtre aussi pathÃ©tique que toi. Tu tomberas sous les coups de mes sbires !~
 @9  = ~C'est ce qu'on va voir.~
-@10  = ~Ils ont tous dit que j'étais fou, mais je vais leur montrer... Je vais prouver que ma théorie selon laquelle notre univers n'est rien d'autre qu'un grain de sable sur une plage infinie ! Oups. C'est mauvais. Hum. Ouais, en fait, je crois que vais m'arrêter là.~
+@10  = ~Ils ont tous dit que j'Ã©tais fou, mais je vais leur montrer... Je vais prouver que ma thÃ©orie selon laquelle notre univers n'est rien d'autre qu'un grain de sable sur une plage infinie ! Oups. C'est mauvais. Hum. Ouais, en fait, je crois que vais m'arrÃªter lÃ .~
 @11 = ~Je crois que je vais pleurer.~
-@12 = ~Tu veux l'histoire de ma vie ? Très bien. Pour commencer, je suis né à...~
-@13 = ~En fait, je ne vous ai pas demandé l'histoire de votre vie, j'ai juste demandé ce que vous faisiez là. Juste histoire de savoir si je dois vous tuer ou pas.~
-@14 = ~Je n'aime pas vous interrompre, mais pouvons-nous abréger et passer à la partie ou c'est violent ?~
-@15 = ~Oh. Mais tu ne veux pas entendre l'histoire tragique de mon passé ?~
-@16 = ~Non, pas vraiment. Je vais te tuer de toute façon, alors qu'est-ce que j'en ai à faire de ton passé tragique ?~
-@17 = ~*Soupir* Je suppose que si. Ce n'est pas comme si j'avais mieux à faire, comme sauver une cité elfique d'un fou psychotique par exemple.~
-@18 = ~Très bien, pauvre idiot. Fais tes prières, je vais t'écraser.~
+@12 = ~Tu veux l'histoire de ma vie ? TrÃ¨s bien. Pour commencer, je suis nÃ© Ã ...~
+@13 = ~En fait, je ne vous ai pas demandÃ© l'histoire de votre vie, j'ai juste demandÃ© ce que vous faisiez lÃ . Juste histoire de savoir si je dois vous tuer ou pas.~
+@14 = ~Je n'aime pas vous interrompre, mais pouvons-nous abrÃ©ger et passer Ã  la partie ou c'est violent ?~
+@15 = ~Oh. Mais tu ne veux pas entendre l'histoire tragique de mon passÃ© ?~
+@16 = ~Non, pas vraiment. Je vais te tuer de toute faÃ§on, alors qu'est-ce que j'en ai Ã  faire de ton passÃ© tragique ?~
+@17 = ~*Soupir* Je suppose que si. Ce n'est pas comme si j'avais mieux Ã  faire, comme sauver une citÃ© elfique d'un fou psychotique par exemple.~
+@18 = ~TrÃ¨s bien, pauvre idiot. Fais tes priÃ¨res, je vais t'Ã©craser.~
 @19 = ~D'accord. Allons-y pour la violence !~
-@20 = ~Tout a commencé à l'époque des troubles, lorsque les dieux marchaient sur la terre. Comme vous le savez peut-être, ou peut-être pas, le dieu défunt Bhaal a engendré un certain nombre d'enfants avec des mortels pour faciliter sa résurrection. Je suis l'un de ces enfants, ma mère était une puissante mage au service de l'un des temples de Bhaal. Lorsque le moment est venu de me sacrifier, ma mère ne l'a pas supporté et m'a emporté.~
-@21 = ~Et j'écoute ça... pourquoi ?~
-@22 = ~Oh mec, encore un de mes semblables avec des rêves de conquête débiles. Allons-y, battons nous les uns les autres jusqu'à n'être plus qu'une bouillie sanguinolente, c'est ce qui va arriver de toute façon.~
-@23 = ~Silence, mortel ! Laisse parler ton supérieur. Ahem. Comme je le disais, ma mère m'a emmené loin, mais elle a été gravement blessée dans sa tentative. Elle est morte peu de temps après, me laissant, jeune enfant, seul dans ce monde cruel.~
+@20 = ~Tout a commencÃ© Ã  l'Ã©poque des troubles, lorsque les dieux marchaient sur la terre. Comme vous le savez peut-Ãªtre, ou peut-Ãªtre pas, le dieu dÃ©funt Bhaal a engendrÃ© un certain nombre d'enfants avec des mortels pour faciliter sa rÃ©surrection. Je suis l'un de ces enfants, ma mÃ¨re Ã©tait une puissante mage au service de l'un des temples de Bhaal. Lorsque le moment est venu de me sacrifier, ma mÃ¨re ne l'a pas supportÃ© et m'a emportÃ©.~
+@21 = ~Et j'Ã©coute Ã§a... pourquoi ?~
+@22 = ~Oh mec, encore un de mes semblables avec des rÃªves de conquÃªte dÃ©biles. Allons-y, battons nous les uns les autres jusqu'Ã  n'Ãªtre plus qu'une bouillie sanguinolente, c'est ce qui va arriver de toute faÃ§on.~
+@23 = ~Silence, mortel ! Laisse parler ton supÃ©rieur. Ahem. Comme je le disais, ma mÃ¨re m'a emmenÃ© loin, mais elle a Ã©tÃ© gravement blessÃ©e dans sa tentative. Elle est morte peu de temps aprÃ¨s, me laissant, jeune enfant, seul dans ce monde cruel.~
 @24 = ~Bon, j'en ai assez de cette histoire larmoyante. Il est temps de mourir~
-@25 = ~S'il vous plaît, continuez, on dirait que vous avez eu une enfance horrible.~
-@26 = ~Tu oses me traiter avec condescendance ?!? As-tu la moindre idée de qui tu es en train de manipuler ? Meurt, impudent !~
-@27 = ~Oups, j'aurais dû le voir venir.~
-@28 = ~Tu as tué mon fils, maintenant je vais m'occuper de toi moi-même; Prépare-toi à souffrir une éternité de tourments ! Est-ce que cela semble trop dramatique ? Je ne peux pas l'exprimer mieux que ça.~
-@29 = ~Un peu, le truc de l'éternité était un peu exagéré, mais bon, on s'en fout, on va se massacrer les uns les autres de toute façon.~
-@30 = ~Pas du tout, nous venons de découper votre fils en petits morceaux, et vous êtes le prochain.~
+@25 = ~S'il vous plaÃ®t, continuez, on dirait que vous avez eu une enfance horrible.~
+@26 = ~Tu oses me traiter avec condescendance ?!? As-tu la moindre idÃ©e de qui tu es en train de manipuler ? Meurt, impudent !~
+@27 = ~Oups, j'aurais dÃ» le voir venir.~
+@28 = ~Tu as tuÃ© mon fils, maintenant je vais m'occuper de toi moi-mÃªme; PrÃ©pare-toi Ã  souffrir une Ã©ternitÃ© de tourments ! Est-ce que cela semble trop dramatique ? Je ne peux pas l'exprimer mieux que Ã§a.~
+@29 = ~Un peu, le truc de l'Ã©ternitÃ© Ã©tait un peu exagÃ©rÃ©, mais bon, on s'en fout, on va se massacrer les uns les autres de toute faÃ§on.~
+@30 = ~Pas du tout, nous venons de dÃ©couper votre fils en petits morceaux, et vous Ãªtes le prochain.~
 
 @44 = ~Pleurer ? Attendez, je crois que j'ai un mouchoir quelque part...~
-@45 = ~*Il fouille dans un grand sac à dos*~
-@46 = ~Attends ! Tu essaie de me piéger ! Je n'ai pas de mouchoir ! Maintenant, mes sbires vont te détruire.~
-@47 = ~Est-ce que je ne pourrais pas me battre contre un méchant SAIN D'ESPRIT, pour une fois ? C'est trop demander ?~
-@48 = ~Attendez, ne me dites pas que vous êtes une autre bande de gentils, toujours en train d'interférer avec les grands plans d'un pauvre enfant de baaal comme moi. Vous n'avez rien de mieux à faire ? Comme aider les vieilles dames de l'autre côté de la rue ou quelque chose comme ça ? Quoi qu'il en soit, je prends le contrôle de cette ville ! Et pour une fois, le mal a une chance décente de gagner !~
+@45 = ~*Il fouille dans un grand sac Ã  dos*~
+@46 = ~Attends ! Tu essaie de me piÃ©ger ! Je n'ai pas de mouchoir ! Maintenant, mes sbires vont te dÃ©truire.~
+@47 = ~Est-ce que je ne pourrais pas me battre contre un mÃ©chant SAIN D'ESPRIT, pour une fois ? C'est trop demander ?~
+@48 = ~Attendez, ne me dites pas que vous Ãªtes une autre bande de gentils, toujours en train d'interfÃ©rer avec les grands plans d'un pauvre enfant de baaal comme moi. Vous n'avez rien de mieux Ã  faire ? Comme aider les vieilles dames de l'autre cÃ´tÃ© de la rue ou quelque chose comme Ã§a ? Quoi qu'il en soit, je prends le contrÃ´le de cette ville ! Et pour une fois, le mal a une chance dÃ©cente de gagner !~
 
 // dumayor.d
 // ---------
-@31 = ~S'il vous plaît, vous devez protéger notre village, mon seigneur ! Un mage maléfique s'est emparé de petits villages au nord d'ici. Il transforme les habitants en esclaves pour son armée de plus en plus nombreuse ! Je vais rester ici et organiser nos défenses. Les autres se sont déjà rassemblés à l'intérieur de l'auberge.~~S'il vous plaît, vous devez protéger notre village, ma dame ! Un mage maléfique s'est emparé de petits villages au nord d'ici. Il transforme les habitants en esclaves pour son armée de plus en plus nombreuse ! Je vais rester ici et organiser nos défenses. Les autres se sont déjà rassemblés à l'intérieur de l'auberge.~
-@32 = ~Bien sûr, Monsieur le Maire, comment pourrais-je faire moins ? (Qui à écrit ce dialogue de merde ?)~
-@33 = ~Je ne pense pas, débrouillez vous.~
-@34 = ~Une fois de plus, vous venez vers nous en temps de crise, mon seigneur. N'oubliez pas que si ma femme ou moi-même sommes tués, nos maigres défenses s'effondreront et tout sera perdu. Protégez-nous à tout prix. Ha. Et pour une fois, les citoyens lambda ne peuvent pas être massacrés.~~Une fois de plus, vous venez vers nous en temps de crise, ma dame. N'oubliez pas que si ma femme ou moi-même sommes tués, nos maigres défenses s'effondreront et tout sera perdu. Protégez-nous à tout prix. Ha. Et pour une fois, les citoyens lambda ne peuvent pas être massacrés.~
-@35 = ~Bien sûr, Monsieur le Maire. Ne craignez rien.~
-@36 = ~S'il vous plaît, mon seigneur, sans vous, nous n'avons aucune chance !~~S'il vous plaît, ma dame, sans vous, nous n'avons aucune chance !~
-@37 = ~Très bien, mais je m'attends à être très bien récompensé.~~Très bien, mais je m'attends à être très bien récompensée.~
+@31 = ~S'il vous plaÃ®t, vous devez protÃ©ger notre village, mon seigneur ! Un mage malÃ©fique s'est emparÃ© de petits villages au nord d'ici. Il transforme les habitants en esclaves pour son armÃ©e de plus en plus nombreuse ! Je vais rester ici et organiser nos dÃ©fenses. Les autres se sont dÃ©jÃ  rassemblÃ©s Ã  l'intÃ©rieur de l'auberge.~~S'il vous plaÃ®t, vous devez protÃ©ger notre village, ma dame ! Un mage malÃ©fique s'est emparÃ© de petits villages au nord d'ici. Il transforme les habitants en esclaves pour son armÃ©e de plus en plus nombreuse ! Je vais rester ici et organiser nos dÃ©fenses. Les autres se sont dÃ©jÃ  rassemblÃ©s Ã  l'intÃ©rieur de l'auberge.~
+@32 = ~Bien sÃ»r, Monsieur le Maire, comment pourrais-je faire moins ? (Qui Ã  Ã©crit ce dialogue de merde ?)~
+@33 = ~Je ne pense pas, dÃ©brouillez vous.~
+@34 = ~Une fois de plus, vous venez vers nous en temps de crise, mon seigneur. N'oubliez pas que si ma femme ou moi-mÃªme sommes tuÃ©s, nos maigres dÃ©fenses s'effondreront et tout sera perdu. ProtÃ©gez-nous Ã  tout prix. Ha. Et pour une fois, les citoyens lambda ne peuvent pas Ãªtre massacrÃ©s.~~Une fois de plus, vous venez vers nous en temps de crise, ma dame. N'oubliez pas que si ma femme ou moi-mÃªme sommes tuÃ©s, nos maigres dÃ©fenses s'effondreront et tout sera perdu. ProtÃ©gez-nous Ã  tout prix. Ha. Et pour une fois, les citoyens lambda ne peuvent pas Ãªtre massacrÃ©s.~
+@35 = ~Bien sÃ»r, Monsieur le Maire. Ne craignez rien.~
+@36 = ~S'il vous plaÃ®t, mon seigneur, sans vous, nous n'avons aucune chance !~~S'il vous plaÃ®t, ma dame, sans vous, nous n'avons aucune chance !~
+@37 = ~TrÃ¨s bien, mais je m'attends Ã  Ãªtre trÃ¨s bien rÃ©compensÃ©.~~TrÃ¨s bien, mais je m'attends Ã  Ãªtre trÃ¨s bien rÃ©compensÃ©e.~
 @38 = ~Pfagh. Alors je suppose que vous n'avez aucune chance, n'est-ce pas ?~
-@39 = ~Très bien. Alors nous acceptons nos destins, et que les dieux vous frappent pour ce que vous avez fait.~
-@40 = ~Ha. Je crée mon propre destin, malgré les désirs des dieux.~
+@39 = ~TrÃ¨s bien. Alors nous acceptons nos destins, et que les dieux vous frappent pour ce que vous avez fait.~
+@40 = ~Ha. Je crÃ©e mon propre destin, malgrÃ© les dÃ©sirs des dieux.~
 
-@50 = ~Ils sont dirigés par un puissant mage appelé Jugend. Il a deux lieutenants, un mage nommé Ayrus et un mage nommé Maia. Ils dirigent chacun une section de son armée. Son fils dirige la troisième section. Méfiez-vous de lui, c'est un combattant puissant qu'il ne faut pas sous-estimer.~
-@51 = ~Son armée est censée être presque inépuisable, mais pour qu'il puisse continuer à faire venir des renforts, ses deux lieutenants et son fils doivent maintenir des portails ouverts.~
-@52 = ~En tuant son fils, vous fermerez les deux portails inférieurs, et en tuant ses lieutenants, vous fermerez les trois portails supérieurs.~
-@53 = ~Voulez-vous que je vous énumère toutes sortes de choses sur l'armée de Jugend que je ne suis pas du tout censée connaître ?~
-@54 = ~Bien sûr. J'aime toujours que les pnjs m'expliquent EXACTEMENT ce que je suis censé faire.~
-@55 = ~Non. En fait, j'aime bien comprendre certaines choses par moi-même. Mais quand j'aurais rechargé cinq ou six fois, je choisirai l'autre option.~
-@56 = ~De même, ceux que vous avez aidés dans le passé viendront vous aider. Utilisez-les à bon escient. Nous n'avons que quelques minutes avant qu'ils n'attaquent. Et n'oubliez pas : NE ME LAISSEZ PAS MOURIR. Bonne chance. Ce péon s'autodétruira dans 5 secondes.~
+@50 = ~Ils sont dirigÃ©s par un puissant mage appelÃ© Jugend. Il a deux lieutenants, un mage nommÃ© Ayrus et un mage nommÃ© Maia. Ils dirigent chacun une section de son armÃ©e. Son fils dirige la troisiÃ¨me section. MÃ©fiez-vous de lui, c'est un combattant puissant qu'il ne faut pas sous-estimer.~
+@51 = ~Son armÃ©e est censÃ©e Ãªtre presque inÃ©puisable, mais pour qu'il puisse continuer Ã  faire venir des renforts, ses deux lieutenants et son fils doivent maintenir des portails ouverts.~
+@52 = ~En tuant son fils, vous fermerez les deux portails infÃ©rieurs, et en tuant ses lieutenants, vous fermerez les trois portails supÃ©rieurs.~
+@53 = ~Voulez-vous que je vous Ã©numÃ¨re toutes sortes de choses sur l'armÃ©e de Jugend que je ne suis pas du tout censÃ©e connaÃ®tre ?~
+@54 = ~Bien sÃ»r. J'aime toujours que les pnjs m'expliquent EXACTEMENT ce que je suis censÃ© faire.~
+@55 = ~Non. En fait, j'aime bien comprendre certaines choses par moi-mÃªme. Mais quand j'aurais rechargÃ© cinq ou six fois, je choisirai l'autre option.~
+@56 = ~De mÃªme, ceux que vous avez aidÃ©s dans le passÃ© viendront vous aider. Utilisez-les Ã  bon escient. Nous n'avons que quelques minutes avant qu'ils n'attaquent. Et n'oubliez pas : NE ME LAISSEZ PAS MOURIR. Bonne chance. Ce pÃ©on s'autodÃ©truira dans 5 secondes.~
 @57 = ~Euh. Oui. D'accord, alors.~
 @58 = ~Bonne chance alors mon seigneur, nous n'avons que quelques minutes avant qu'ils n'attaquent.~~Bonne chance alors ma dame, nous n'avons que quelques minutes avant qu'ils n'attaquent.~
 
-@88 = ~Merci mon seigneur ! Vous avez sauvé notre village une fois de plus. Prenez ceci en guise de remerciement. Ma femme et moi devons maintenant aider les autres villageois.~~Merci ma dame ! Vous avez sauvé notre village une fois de plus. Prenez ceci en guise de remerciement. Ma femme et moi devons maintenant aider les autres villageois.~
+@88 = ~Merci mon seigneur ! Vous avez sauvÃ© notre village une fois de plus. Prenez ceci en guise de remerciement. Ma femme et moi devons maintenant aider les autres villageois.~~Merci ma dame ! Vous avez sauvÃ© notre village une fois de plus. Prenez ceci en guise de remerciement. Ma femme et moi devons maintenant aider les autres villageois.~
 @89 = ~Pourquoi devons-nous toujours sauver TOUT LE MONDE ? Oh, c'est vrai. Parce que ce serait incroyablement ennuyeux si on se contentait de regarder pendant que quelqu'un d'autre fait tout le travail. C'est comme dans la vraie vie.~
 
 // duwife.d
 // --------
 @59 = ~Ahhh!!~
 
-@101 = ~Une fois de plus, vous nous avez sauvés. S'il vous plaît, parlez à mon mari.~
-@102 = ~Très bien, Madame.~
+@101 = ~Une fois de plus, vous nous avez sauvÃ©s. S'il vous plaÃ®t, parlez Ã  mon mari.~
+@102 = ~TrÃ¨s bien, Madame.~
 
 // dumad.d
 // -------
-@60 = ~Nous sommes venus remplir notre part du marché. Nous aiderons à protéger le village. Dites-nous ce qu'il faut faire.~
-@61 = ~Très bien. Merci pour votre aide, Madulf.~
+@60 = ~Nous sommes venus remplir notre part du marchÃ©. Nous aiderons Ã  protÃ©ger le village. Dites-nous ce qu'il faut faire.~
+@61 = ~TrÃ¨s bien. Merci pour votre aide, Madulf.~
 
-@99 = ~C'est fini. Quand nous aurons fini d'aider les survivants, nous retournerons à notre place au nord du village.~
+@99 = ~C'est fini. Quand nous aurons fini d'aider les survivants, nous retournerons Ã  notre place au nord du village.~
 @100 = ~Merci pour votre aide, Madulf.~
 
 // dudyrad.d
 // ---------
-@62 = ~Salutations, protecteur de la forêt. Les esprits de la forêt sont venus t'aider à lutter contre le mal qui menace la terre.~~Salutations, protectrice de la forêt. Les esprits de la forêt sont venus t'aider à lutter contre le mal qui menace la terre.~
-@63 = ~Toute aide est la bienvenue. Je vous préviens : le combat qui s'annonce sera extrêmement difficile.~
+@62 = ~Salutations, protecteur de la forÃªt. Les esprits de la forÃªt sont venus t'aider Ã  lutter contre le mal qui menace la terre.~~Salutations, protectrice de la forÃªt. Les esprits de la forÃªt sont venus t'aider Ã  lutter contre le mal qui menace la terre.~
+@63 = ~Toute aide est la bienvenue. Je vous prÃ©viens : le combat qui s'annonce sera extrÃªmement difficile.~
 
 // Seem to be unused
 // -----------------
-@41 = ~Jugend tire son pouvoir de l'un de ses subordonnés. Il est entièrement guéri !~
-@42 = ~Jugend tente de tirer le pouvoir de l'un de ses subordonnés, mais vous les avez tous les deux tués !~
-@43 = ~Awww, putain. Voilà le maire qui s'en va.~
+@41 = ~Jugend tire son pouvoir de l'un de ses subordonnÃ©s. Il est entiÃ¨rement guÃ©ri !~
+@42 = ~Jugend tente de tirer le pouvoir de l'un de ses subordonnÃ©s, mais vous les avez tous les deux tuÃ©s !~
+@43 = ~Awww, putain. VoilÃ  le maire qui s'en va.~
 @49 = ~Maintenant, mon seigneur, laissez-moi vous dire ce que j'ai appris sur nos attaquants...~~Maintenant, ma dame, laissez-moi vous dire ce que j'ai appris sur nos attaquants...~
 
 
@@ -99,12 +99,12 @@
  * --------- */
 // duar1100.baf
 // ------------
-@98 = ~Avec votre dernier coup, Jugend s'effondre. La ville d'Imnesvale est à nouveau en sécurité. Avec un peu de chance, tous les habitants de la ville s'en sont sortis indemnes.~
+@98 = ~Avec votre dernier coup, Jugend s'effondre. La ville d'Imnesvale est Ã  nouveau en sÃ©curitÃ©. Avec un peu de chance, tous les habitants de la ville s'en sont sortis indemnes.~
 
 // duarim.baf, duayrus.baf, ducaster.baf, dufm.baf, dujug.baf, dumaia.baf, durak.baf
 // ---------------------------------------------------------------------------------
-@64 = ~Un sort est déclenché !~
-@65 = ~Une contingence est déclenchée!~
+@64 = ~Un sort est dÃ©clenchÃ© !~
+@65 = ~Une contingence est dÃ©clenchÃ©e!~
 
 // duarim.baf
 // ----------
@@ -112,4 +112,4 @@
 
 // dujug.baf
 // ---------
-@67 = ~DES LAPINS ?! C'est la dernière fois que j'achète un animal proche de la mort dans un magasin discount !~
+@67 = ~DES LAPINS ?! C'est la derniÃ¨re fois que j'achÃ¨te un animal proche de la mort dans un magasin discount !~
