@@ -61,15 +61,15 @@ LANGUAGE ~English~
 		 ~english~
 		 ~imnesvale/lang/english/setup.tra~
 
-LANGUAGE ~Espanol (traduccion de alaisFcZ)~
-		 ~spanish~
-		 ~imnesvale/lang/english/setup.tra~
-		 ~imnesvale/lang/spanish/setup.tra~
-
 LANGUAGE ~Deutsch (Uebersetzung von BiG World Textpack German project)~
 		 ~german~
 		 ~imnesvale/lang/english/setup.tra~
 		 ~imnesvale/lang/german/setup.tra~
+
+LANGUAGE ~Espanol (traduccion de alaisFcZ)~
+		 ~spanish~
+		 ~imnesvale/lang/english/setup.tra~
+		 ~imnesvale/lang/spanish/setup.tra~
 
 LANGUAGE ~Francais (traduction par Deratiseur)~
 		 ~french~
