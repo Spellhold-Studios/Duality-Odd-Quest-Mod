@@ -39,7 +39,7 @@
 Vrooooooooouuuuuuuuummmmmmm !
 Vous permet d'attaquer rapidement !
 
-STATISTIQUES :
+PARAMÈTRES :
 
 Capacités d'équipement :
 - 1/2 attaque supplémentaire par round
@@ -52,7 +52,7 @@ Poids : 0~
 @213 = ~Qui lit les descriptions non identifiées de toute façon ?~
 @214 = ~Miroir Miroir sur le mur
 
-STATISTIQUES :
+PARAMÈTRES :
 
 Capacités d'équipement :
 - Renvoi toutes les attaques à distance
@@ -65,17 +65,17 @@ Poids : 3~
 @223 = ~Identifiez-le.~
 @224 = ~Robe du Mage de guerre
 
-STATISTIQUES :
+PARAMÈTRES :
 
 Capacités d'équipement :
 - Classe d'armure : 1
-- Augmente la vitesse d'incantation des sorts de 2
+- Temps d'incantation : -2
 - 1/2 attaque supplémentaire par round
 - Résistance aux dégâts contondants : +40%
 - Régénère 1 point de vie toutes les 3 secondes
 
 - Résistance aux dégâts tranchants : -10%
-- Résistance aux dégâts perçants  : -25%
+- Résistance aux dégâts de projectiles : -25%
 - Mémorise un sort de moins des niveaux 1 à 6
 
 Poids : 4~
@@ -87,7 +87,7 @@ Poids : 4~
 Ce casque incroyablement puissant confère à son porteur des protections impressionnantes.
 L'inconvénient est que pour protéger son porteur, le casque doit puiser dans sa vitalité.
 
-STATISTIQUES :
+PARAMÈTRES :
 
 Capacités d'équipement :
 - Immunité à l'arrêt du temps
@@ -97,7 +97,7 @@ Capacités d'équipement :
 - Maximum de points de vie : -2 CHAQUE fois qu'il est équipé (l'effet est permanent)
 - Points de vie maximum : -20 lorsqu'il est équipé
 - Constitution : fixée à 5
-- Spécial : maudit, ne peut être enlevé que par un sort de délivrance de la malédiction
+- Ne peut être ôtée qu'à l'aide d'un sort de Délivrance de la malédiction
 
 Poids : 2~
 
@@ -107,11 +107,11 @@ Poids : 2~
 @244 = ~Plus vite ! Plus vite !
 Oooohhh, bel effet. Dommage qu'on ne puisse pas toucher une cible grosse comme un éléphant.
 
-STATISTIQUES :
+PARAMÈTRES :
 
 Capacités d'équipement :
 - Hâte améliorée
-- TAC0 : -5
+- TAC0 : malus de 5
 
 Poids : 2~
 
@@ -120,12 +120,12 @@ Poids : 2~
 Si vous avez trouvé cet objet, sentez-vous spécial, il est TRÈS difficile à obtenir.
 Si vous avez triché, allez vous faire renverser par un camion.
 
-STATISTIQUES :
+PARAMÈTRES :
 
 Capacités d'équipement :
 - Protection contre toutes les classes de combattants.
 - Classe d'armure : +4
-- Résistance aux dégâts physiques : +25%
+- Résistance aux dégâts tranchants, contondants et perforants : +25%
 
 Poids : 0~
 
@@ -135,7 +135,7 @@ Poids : 0~
 Si vous avez trouvé cet objet, sentez-vous spécial, il est TRÈS difficile à obtenir.
 Si vous avez triché, allez vous faire renverser par un camion.
 
-STATISTIQUES :
+PARAMÈTRES :
 
 Capacités d'équipement :
 - Protection contre toutes les classes de mages.

@@ -8,7 +8,7 @@
 @3  = ~Euh. Bonjour ?~
 @4  = ~Par pitié, pas encore... Il y a quelques chose dans ce que je bois ou est-ce que j'attire les cinglés ?~
 @5  = ~Qu'est-ce que c'est ? Un ver veut s'adresser à moi ? Parles, misérable.~
-@6  = ~Merde, pourquoi, pourquoi, pourquoi, toujours moi ? Allez vous partir pacifiquement, ou dois-je vous fracasser le crâne ?~
+@6  = ~Merde, pourquoi, pourquoi, pourquoi, toujours moi ? Allez-vous partir pacifiquement, ou dois-je vous fracasser le crâne ?~
 @7  = ~Euh... Que pouvons-nous faire pour vous ?~
 @8  = ~Tu. Oses. M’insulter. Moi ?! Ha ! Je ne souillerai pas ma lame avec le sang d'un être aussi pathétique que toi. Tu tomberas sous les coups de mes sbires !~
 @9  = ~C'est ce qu'on va voir.~
@@ -16,19 +16,19 @@
 @11 = ~Je crois que je vais pleurer.~
 @12 = ~Tu veux l'histoire de ma vie ? Très bien. Pour commencer, je suis né à...~
 @13 = ~En fait, je ne vous ai pas demandé l'histoire de votre vie, j'ai juste demandé ce que vous faisiez là. Juste histoire de savoir si je dois vous tuer ou pas.~
-@14 = ~Je n'aime pas vous interrompre, mais pouvons-nous abréger et passer à la partie ou c'est violent ?~
+@14 = ~Je n'aime pas vous interrompre, mais pouvons-nous abréger et passer à la partie où c'est violent ?~
 @15 = ~Oh. Mais tu ne veux pas entendre l'histoire tragique de mon passé ?~
 @16 = ~Non, pas vraiment. Je vais te tuer de toute façon, alors qu'est-ce que j'en ai à faire de ton passé tragique ?~
 @17 = ~*Soupir* Je suppose que si. Ce n'est pas comme si j'avais mieux à faire, comme sauver une cité elfique d'un fou psychotique par exemple.~
-@18 = ~Très bien, pauvre idiot. Fais tes prières, je vais t'écraser.~
+@18 = ~Très bien, pauvre idiot. Fais tes prières, je vais t'écraser.~ ~Très bien, pauvre idiote. Fais tes prières, je vais t'écraser.~
 @19 = ~D'accord. Allons-y pour la violence !~
 @20 = ~Tout a commencé à l'époque des troubles, lorsque les dieux marchaient sur la terre. Comme vous le savez peut-être, ou peut-être pas, le dieu défunt Bhaal a engendré un certain nombre d'enfants avec des mortels pour faciliter sa résurrection. Je suis l'un de ces enfants, ma mère était une puissante mage au service de l'un des temples de Bhaal. Lorsque le moment est venu de me sacrifier, ma mère ne l'a pas supporté et m'a emporté.~
 @21 = ~Et j'écoute ça... pourquoi ?~
 @22 = ~Oh mec, encore un de mes semblables avec des rêves de conquête débiles. Allons-y, battons nous les uns les autres jusqu'à n'être plus qu'une bouillie sanguinolente, c'est ce qui va arriver de toute façon.~
-@23 = ~Silence, mortel ! Laisse parler ton supérieur. Ahem. Comme je le disais, ma mère m'a emmené loin, mais elle a été gravement blessée dans sa tentative. Elle est morte peu de temps après, me laissant, jeune enfant, seul dans ce monde cruel.~
-@24 = ~Bon, j'en ai assez de cette histoire larmoyante. Il est temps de mourir~
+@23 = ~Silence, mortel ! Laisse parler ton supérieur. Ahem. Comme je le disais, ma mère m'a emmené loin, mais elle a été gravement blessée dans sa tentative. Elle est morte peu de temps après, me laissant, jeune enfant, seul dans ce monde cruel.~ ~Silence, mortelle ! Laisse parler ton supérieur. Ahem. Comme je le disais, ma mère m'a emmené loin, mais elle a été gravement blessée dans sa tentative. Elle est morte peu de temps après, me laissant, jeune enfant, seul dans ce monde cruel.~
+@24 = ~Bon, j'en ai assez de cette histoire larmoyante. Il est temps de mourir.~
 @25 = ~S'il vous plaît, continuez, on dirait que vous avez eu une enfance horrible.~
-@26 = ~Tu oses me traiter avec condescendance ?!? As-tu la moindre idée de qui tu es en train de manipuler ? Meurt, impudent !~
+@26 = ~Tu oses me traiter avec condescendance ?!? As-tu la moindre idée à qui tu as affaire ? Meurt, impudent !~ ~Tu oses me traiter avec condescendance ?!? As-tu la moindre idée à qui tu as affaire ? Meurt, impudente !~
 @27 = ~Oups, j'aurais dû le voir venir.~
 @28 = ~Tu as tué mon fils, maintenant je vais m'occuper de toi moi-même; Prépare-toi à souffrir une éternité de tourments ! Est-ce que cela semble trop dramatique ? Je ne peux pas l'exprimer mieux que ça.~
 @29 = ~Un peu, le truc de l'éternité était un peu exagéré, mais bon, on s'en fout, on va se massacrer les uns les autres de toute façon.~
@@ -43,8 +43,8 @@
 // dumayor.d
 // ---------
 @31 = ~S'il vous plaît, vous devez protéger notre village, mon seigneur ! Un mage maléfique s'est emparé de petits villages au nord d'ici. Il transforme les habitants en esclaves pour son armée de plus en plus nombreuse ! Je vais rester ici et organiser nos défenses. Les autres se sont déjà rassemblés à l'intérieur de l'auberge.~~S'il vous plaît, vous devez protéger notre village, ma dame ! Un mage maléfique s'est emparé de petits villages au nord d'ici. Il transforme les habitants en esclaves pour son armée de plus en plus nombreuse ! Je vais rester ici et organiser nos défenses. Les autres se sont déjà rassemblés à l'intérieur de l'auberge.~
-@32 = ~Bien sûr, Monsieur le Maire, comment pourrais-je faire moins ? (Qui à écrit ce dialogue de merde ?)~
-@33 = ~Je ne pense pas, débrouillez vous.~
+@32 = ~Bien sûr, Monsieur le Maire, comment pourrais-je faire moins ? (Qui a écrit ce dialogue de merde ?)~
+@33 = ~Je ne pense pas, débrouillez-vous.~
 @34 = ~Une fois de plus, vous venez vers nous en temps de crise, mon seigneur. N'oubliez pas que si ma femme ou moi-même sommes tués, nos maigres défenses s'effondreront et tout sera perdu. Protégez-nous à tout prix. Ha. Et pour une fois, les citoyens lambda ne peuvent pas être massacrés.~~Une fois de plus, vous venez vers nous en temps de crise, ma dame. N'oubliez pas que si ma femme ou moi-même sommes tués, nos maigres défenses s'effondreront et tout sera perdu. Protégez-nous à tout prix. Ha. Et pour une fois, les citoyens lambda ne peuvent pas être massacrés.~
 @35 = ~Bien sûr, Monsieur le Maire. Ne craignez rien.~
 @36 = ~S'il vous plaît, mon seigneur, sans vous, nous n'avons aucune chance !~~S'il vous plaît, ma dame, sans vous, nous n'avons aucune chance !~
@@ -53,7 +53,7 @@
 @39 = ~Très bien. Alors nous acceptons nos destins, et que les dieux vous frappent pour ce que vous avez fait.~
 @40 = ~Ha. Je crée mon propre destin, malgré les désirs des dieux.~
 
-@50 = ~Ils sont dirigés par un puissant mage appelé Jugend. Il a deux lieutenants, un mage nommé Ayrus et un mage nommé Maia. Ils dirigent chacun une section de son armée. Son fils dirige la troisième section. Méfiez-vous de lui, c'est un combattant puissant qu'il ne faut pas sous-estimer.~
+@50 = ~Ils sont dirigés par un puissant mage appelé Jugend. Il a deux lieutenants, un mage nommé Ayrus et une mage nommée Maia. Ils dirigent chacun une section de son armée. Son fils dirige la troisième section. Méfiez-vous de lui, c'est un combattant puissant qu'il ne faut pas sous-estimer.~
 @51 = ~Son armée est censée être presque inépuisable, mais pour qu'il puisse continuer à faire venir des renforts, ses deux lieutenants et son fils doivent maintenir des portails ouverts.~
 @52 = ~En tuant son fils, vous fermerez les deux portails inférieurs, et en tuant ses lieutenants, vous fermerez les trois portails supérieurs.~
 @53 = ~Voulez-vous que je vous énumère toutes sortes de choses sur l'armée de Jugend que je ne suis pas du tout censée connaître ?~
